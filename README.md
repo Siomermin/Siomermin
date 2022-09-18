@@ -3,5 +3,5 @@
 
 - 🌱 Actualmente estoy aprendiendo TypeScript y Angular para trabajar en el Front-End y PHP para el Back-End.
 
-- 📫 Como contactarme: mailto:fermingonzalez011@gmail.com
+- 📫 Como contactarme: fermingonzalez011@gmail.com
 
