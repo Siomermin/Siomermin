@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fermín</h1>
-<h3 align="center">I'm a 2nd-year programming student at the <a class="link" href="http://www.sistemas-utnfra.com.ar/#/home">UTN FRA</a> and also a fullstack web development student at <a class="link" href="https://nucba.com.ar/codingbootcamp">NUCBA</h3></a>
+<h3 align="center">I'm a 2nd-year programming student at <a class="link" href="http://www.sistemas-utnfra.com.ar/#/home">UTN FRA</a> and also a fullstack web development student at <a class="link" href="https://nucba.com.ar/codingbootcamp">NUCBA</h3></a>
 
 - 🔭 I’m currently focusing on **developing my first fullstack apps.**
 
