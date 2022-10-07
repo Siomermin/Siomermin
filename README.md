@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently focusing on **developing full stack applications.**
 
-- 🌱 I’m currently learning **Angular using TypeScript along with PHP and NodeJs on the backend.**
+- 🌱 I’m currently learning **Angular using TypeScript along with PHP and NodeJs on the back end.**
 
 - 📫 How to reach me **fermingonzalez011@gmail.com**
 
