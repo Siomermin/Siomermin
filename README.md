@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fermín</h1>
 <h3 align="center">I'm a 2nd-year programming student at <a class="link" href="http://www.sistemas-utnfra.com.ar/#/home">UTN FRA</a> and also a fullstack web development student at <a class="link" href="https://nucba.com.ar/codingbootcamp">NUCBA</h3></a>
 
-- 🔭 I’m currently focusing on **developing full stack applications.**
+- 🔭 I’m currently focusing on **full stack web development.**
 
 - 🌱 I’m currently working with **NodeJs and PHP along with TypeScript.**
 
