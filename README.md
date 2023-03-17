@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently focusing on **full stack web development.**
 
-- 🌱 I’m currently working with **Angular and TypeScript.**
+- 🌱 I’m currently working with **PHP, Angular and TypeScript.**
 
 - 📫 How to reach me **fermingonzalez011@gmail.com**
 
