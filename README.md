@@ -1,4 +1,4 @@
-<h3 align="center"> FullStack Trainee Developer <a href="https://www.tgv.com.ar" target="blank">@TGV</a> and a 2nd-year programming student <a href="https://extensionfra.com.ar" target="blank">@UTN</a></h3>
+<h3 align="center"> FullStack Trainee Developer <a href="https://www.tgv.com.ar" target="_blank">@TGV</a> and a 2nd-year programming student <a href="https://extensionfra.com.ar" target="_blank">@UTN</a></h3>
   
 - 🌱 Working with **PHP, JavaScript and Angular.**
 
