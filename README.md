@@ -1,4 +1,4 @@
-<h3 align="center"> FullStack Trainee Developer @TGV and a 2nd-year programming student @UTN
+<h3 align="center"> FullStack Trainee Developer @TGV and a 2nd-year programming student @UTN </h3>
   
 - 🌱 I’m currently working with **PHP, JavaScript and Angular.**
 
