@@ -2,7 +2,7 @@
   
 - 🌱 Working with **PHP, JavaScript and Angular.**
 
-- 📫 How to reach me **fermingonzalez011@gmail.com**
+- 📫 **fermingonzalez011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
