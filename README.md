@@ -1,6 +1,4 @@
-<h3 align="center"> Software Developer <a href="https://www.tgv.com.ar" target="_blank">@TGV</a></h3>
-  
-- 🌱 Working with **PHP, JavaScript and Angular.**
+<h3 align="center"> Software Developer <a href="https://careers-meli.mercadolibre.com/" target="_blank">@Mercado Libre</a></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
